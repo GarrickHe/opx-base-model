@@ -1,6 +1,6 @@
 opx-base-model (3.165.0) unstable; urgency=medium
 
-  * Feature: VxLAN Support
+  * Feature: Static L2 VxLAN Support
   * Bugfix: Fix pyang IETF errors
   * Bugfix: Support for new ACL qualifier
   * Bugfix: 25g interface remains down during breakout
